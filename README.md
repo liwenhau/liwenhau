@@ -1,19 +1,166 @@
+```
+    _____ _     _    __                  _   _       _   
+   / ____| |   (_)  / _|                | | | |     | |  
+  | |    | | _   _ | |_  _ __   ___   __| | | |__   | |_ 
+  | |    | |(_) (_)|  _|| '__| / _ \ / _` | | '_ \  | __|
+  | |____| |  _   _ | |  | |  | (_) | (_| | | | | | | |_ 
+   \_____|_| (_) (_)|_|  |_|   \___/ \__,_| |_| |_|  \__|
+                                                           
+           欢迎来到我的GitHub！🎉
+           一个不断学习和进步的程序员
+```
 
-                  🛸-->🌌-->🌏
-                  
-                        🚀
-                   
-                  🌞       🛸    ⭐⭐⭐⭐           🌜
-                  
-                       ☁️☁️☁️     ☁️☁️☁️ 
-                       
-          🛸....   ...   .... 🚁         
-                              🪂
-                            ☁️☁️☁️ 
-                              🌋
-                              🗻
-          
-         💭
-       👦
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=liwenhau&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liwenhau&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |    
+## 👨‍💻 关于我 About Me
+
+> 💭 **座右铭**：写代码就像炒菜，火候很关键！差一点是生，多一点是焦！
+
+- 🧑‍💻 一名热爱**折腾**的程序员 
+- 🚀 追求代码优雅，但更追求**下班准时**
+- 🎮 代码改一行，下班推后半小时（bushi
+- 📖 坚持学习，但也坚持摸鱼
+- ☕ 用咖啡续命的打工人
+- 🎯 目标：写出别人看不懂的代码（误！应该是别人能看懂的）
+
+---
+
+## 🛠️ 我的技能栈 Tech Stack
+
+```
+┌─────────────────────────────────────┐
+│   🎮 前端开发                        │
+├─────────────────────────────────────┤
+│  ⭐⭐⭐⭐⭐ JavaScript/TypeScript   │
+│  ⭐⭐⭐⭐  React / Vue             │
+│  ⭐⭐⭐⭐  CSS / HTML              │
+│  ⭐⭐⭐   Webpack / Vite           │
+└─────────────────────────────────────┘
+
+┌─────────────────────────────────────┐
+│   🔧 后端开发                        │
+├─────────────────────────────────────┤
+│  ⭐⭐⭐⭐  Node.js                 │
+│  ⭐⭐⭐   Python                  │
+│  ⭐⭐⭐   SQL / MongoDB           │
+│  ⭐⭐    Java                    │
+└─────────────────────────────────────┘
+
+┌────────────────────────────���────────┐
+│   🎨 工具和平台                      │
+├─────────────────────────────────────┤
+│  Git / GitHub / GitLab              │
+│  Docker / Linux                     │
+│  VS Code（我的最爱）                 │
+│  终端（zsh + oh-my-zsh）             │
+└─────────────────────────────────────┘
+```
+
+---
+
+## 📊 我的数据 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liwenhau&show_icons=true&include_all_commits=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liwenhau&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🎯 我的座右铭 Funny Quotes
+
+```
+程序员的日常：
+   ✅ 代码写得很好 ➜ 领导："再优化一下"
+   ✅ 功能都实现了 ➜ PM："再加个功能呗"
+   ✅ 通过测试了   ➜ 用户："给我改改颜色"
+   ✅ 准备下班了   ➜ 紧急bug要修复
+
+但还是要继续💪
+因为我是程序员！
+```
+
+---
+
+## 🚀 我的项目 Projects
+
+| 项目 | 简介 | 技术栈 |
+|------|------|--------|
+| 🔗 [待补充] | 一个很牛逼的项目 | React + Node.js |
+| 🔗 [待补充] | 又是一个很牛逼的项目 | Vue + Python |
+
+> 💡 项目还在筹备中，敬请期待！
+
+---
+
+## 💬 有趣的事实 Fun Facts
+
+- 🐛 **最常见的bug**：`console.log` 调试法信仰者
+- 📱 **手机里装的软件**：GitHub、VS Code、掘金、牛客网、CSDN
+- ☕ **一天喝咖啡**：早上1杯，中午1杯，下午2杯（不喝代码不动）
+- 😴 **加班宣言**：该来的总会来，不如现在就加班
+- 🎮 **放松方式**：玩游戏、刷抖音、再刷一会儿GitHub
+- 🎯 **新年计划**：今年一定要...（去年就是这么说的）
+
+---
+
+## 📱 联系我 Contact Me
+
+<div align="center">
+
+📧 Email: [你的邮箱]
+
+💼 微信: [你的微信]
+
+🐦 小红书/微博: [@你的账号]
+
+💻 个人博客: [你的博客地址]
+
+</div>
+
+---
+
+## 🎊 一些鸡汤 Inspirations
+
+> **"代码是我写的，bug也是我写的，改也是我改的"**
+
+> **"没有什么bug是一个 `ctrl+z` 解决不了的；如果有，那就来两个"**
+
+> **"有人说我写的代码像诗一样优美，有人说像天书一样难懂"** — 那肯定���同一个人在不同时间说的
+
+> **"我的代码注释比代码还多，这是专业的表现"** — 是的，我承认，代码是抄的，注释是自己写的
+
+---
+
+## 🔥 最后的话
+
+```javascript
+console.log("感谢你来到我的GitHub！😊");
+console.log("如果你喜欢，请给个⭐吧");
+console.log("如果你讨厌，也欢迎指点");
+console.log("希望和你成为朋友！🤝");
+
+while(true) {
+    workHard();
+    playHard();
+    sleep(6); // 程序员睡眠时间
+}
+```
+
+---
+
+<div align="center">
+
+### 让我们一起变秃变强！💪
+
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-@liwenhau-blue?style=flat-square&logo=github)
+
+**⭐ 如果这个README让你笑过，请给个Star吧！**
+
+</div>
+
+---
+
+*最后更新于: 2024年 | 下一次更新: 当我找到bug的时候* 🐛
