@@ -23,51 +23,6 @@
 
 ---
 
-## 🛠️ 我的技能栈 Tech Stack
-
-```
-┌─────────────────────────────────────┐
-│   🎮 前端开发                        │
-├─────────────────────────────────────┤
-│  ⭐⭐⭐⭐⭐ JavaScript/TypeScript   │
-│  ⭐⭐⭐⭐  React / Vue             │
-│  ⭐⭐⭐⭐  CSS / HTML              │
-│  ⭐⭐⭐   Webpack / Vite           │
-└─────────────────────────────────────┘
-
-┌─────────────────────────────────────┐
-│   🔧 后端开发                        │
-├─────────────────────────────────────┤
-│  ⭐⭐⭐⭐  Node.js                 │
-│  ⭐⭐⭐   Python                  │
-│  ⭐⭐⭐   SQL / MongoDB           │
-│  ⭐⭐    Java                    │
-└─────────────────────────────────────┘
-
-┌────────────────────────────���────────┐
-│   🎨 工具和平台                      │
-├─────────────────────────────────────┤
-│  Git / GitHub / GitLab              │
-│  Docker / Linux                     │
-│  VS Code（我的最爱）                 │
-│  终端（zsh + oh-my-zsh）             │
-└─────────────────────────────────────┘
-```
-
----
-
-## 📊 我的数据 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liwenhau&show_icons=true&include_all_commits=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liwenhau&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 🎯 我的座右铭 Funny Quotes
 
 ```
@@ -109,13 +64,9 @@
 
 <div align="center">
 
-📧 Email: [你的邮箱]
+📧 Email: [1465041302@qq.com]
 
-💼 微信: [你的微信]
-
-🐦 小红书/微博: [@你的账号]
-
-💻 个人博客: [你的博客地址]
+💻 个人博客: [https://liwenhau.github.io/]
 
 </div>
 
