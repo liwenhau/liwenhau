@@ -1,40 +1,36 @@
-```
-    _____ _     _    __                  _   _       _   
-   / ____| |   (_)  / _|                | | | |     | |  
-  | |    | | _   _ | |_  _ __   ___   __| | | |__   | |_ 
-  | |    | |(_) (_)|  _|| '__| / _ \ / _` | | '_ \  | __|
-  | |____| |  _   _ | |  | |  | (_) | (_| | | | | | | |_ 
-   \_____|_| (_) (_)|_|  |_|   \___/ \__,_| |_| |_|  \__|
-                                                            
-              🎉 欢迎光临我的GitHub秘密基地！
-```
+# 你好，我是 liwenhua
 
-# 👨‍💻 liwenhau | 代码折腾师
+我主要做 Web 应用和后端服务，喜欢把想法做成真正可用的东西。
 
-> *"代码写好了，是代码；代码写坏了，也是代码。我就这样活着。"* — liwenhau
+目前比较常用的技术是 TypeScript、Vue、C#，也会关注服务端应用设计、接口设计和工程可维护性。写代码时最在意的一点是：过一段时间再回来，看起来仍然清楚。
 
----
+## 我关注的方向
 
-## 📱 找我玩？
+- 使用 Vue、TypeScript、JavaScript、HTML、CSS 构建前端应用
+- 后端服务、API 设计和应用架构
+- 从想法到可用 Demo 的全栈实践
+- 写更易读、更好维护、少一点折磨人的代码
 
-```
-📧 邮箱: 1465041302@qq.com
-💻 博客: https://liwenhau.github.io/
-🐙 GitHub: https://github.com/liwenhau
-```
+## 代表项目
 
----
+| 项目 | 简介 | 技术栈 |
+| --- | --- | --- |
+| [WenYan](https://github.com/liwenhau/WenYan) | 一个围绕“以文交友”的产品实验。 | Vue, TypeScript, JavaScript |
+| [WenYan_Server](https://github.com/liwenhau/WenYan_Server) | WenYan 的服务端项目。 | TypeScript, Vue, C#, Docker |
+| [liwenhau.github.io](https://github.com/liwenhau/liwenhau.github.io) | 我的个人博客，用来记录和整理学习内容。 | HTML, CSS, JavaScript |
 
-<div align="center">
+## 常用技术
 
-### 🎯 最终梦想：写出让人一眼就懂的代码
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**（而不是让人看一眼就头疼的代码）**
+## 联系我
 
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-@liwenhau-blue?style=flat-square&logo=github)
-![Coffee](https://img.shields.io/badge/Powered%20by-☕-brown?style=flat-square)
+- Blog: [liwenhau.github.io](https://liwenhau.github.io/)
+- GitHub: [@liwenhau](https://github.com/liwenhau)
+- Email: [1465041302@qq.com](mailto:1465041302@qq.com)
 
-⭐ **觉得有趣？点个Star吧！** ⭐
-
-</div>
+> 努力写出让人第一眼就能看懂的代码。
